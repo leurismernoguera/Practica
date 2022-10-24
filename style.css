@@ -1,0 +1,38 @@
+*{
+    background-image: url(https://tucuatro.com/wp-content/uploads/nosite/CuatroCeleste-20.jpg);
+    background-color: rgb(135, 197, 222);
+    color: rgb(14, 13, 13);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#imgperfil{
+    display:inline-flexbox;
+    width: 350px;
+    border: solid 10px;
+    border-color: rgb(223, 158, 120);
+    border-radius: 50%;
+}
+
+.titulos{
+    font-size: 200%;
+    font-style: italic;
+}
+
+h2{
+    font-size: 300%;
+}
+
+#biografia{
+    width: 100%;
+    
+}
+
+#familia{
+    display: inline-block;
+}
+
+#discografia{
+    display: inline-block;
+}
+
